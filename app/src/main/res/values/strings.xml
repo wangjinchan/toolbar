@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toolbar</string>
+    <string name="backup">备份</string>
+    <string name="delete">删除</string>
+    <string name="settings">设置</string>
+    <string name="back">返回</string>
+</resources>
